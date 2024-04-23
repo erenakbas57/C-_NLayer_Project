@@ -1,0 +1,15 @@
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\bin\Debug\Northwind.Entities.dll
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\bin\Debug\Northwind.Entities.pdb
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\bin\Debug\Northwind.Entities.dll.config
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.DataAccess\obj\Debug\Northwin.AAEE89B5.Up2Date

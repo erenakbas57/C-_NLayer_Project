@@ -1,0 +1,12 @@
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.AssemblyReference.cache
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.Entities\bin\Debug\Northwind.Entities.dll.config
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.Entities\bin\Debug\EntityFramework.dll
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.Entities\bin\Debug\EntityFramework.xml
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erena\Documents\SOFTWARE\C# course\C_Sharp_Beginner_Level\3advanced_projects\nLayerProject\Northwind.Entities\obj\Debug\Northwin.DE25E0CF.Up2Date

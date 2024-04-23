@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A0B000-4F6F-465F-8843-D92B59532743}|Nrthwind.WebFormsUI\\Northwind.WebFormsUI.csproj|c:\\users\\erena\\documents\\software\\c# course\\c_sharp_beginner_level\\3advanced_projects\\nlayerproject\\nrthwind.webformsui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7A0B000-4F6F-465F-8843-D92B59532743}|Nrthwind.WebFormsUI\\Northwind.WebFormsUI.csproj|solutionrelative:nrthwind.webformsui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA17A2-5D44-4257-8359-77B99F23F22A}|Northwind.Business\\Northwind.Business.csproj|c:\\users\\erena\\documents\\software\\c# course\\c_sharp_beginner_level\\3advanced_projects\\nlayerproject\\northwind.business\\dependencyresolvers\\ninject\\businessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BA17A2-5D44-4257-8359-77B99F23F22A}|Northwind.Business\\Northwind.Business.csproj|solutionrelative:northwind.business\\dependencyresolvers\\ninject\\businessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA17A2-5D44-4257-8359-77B99F23F22A}|Northwind.Business\\Northwind.Business.csproj|C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\northwind.business\\dependencyresolvers\\ninject\\instancefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BA17A2-5D44-4257-8359-77B99F23F22A}|Northwind.Business\\Northwind.Business.csproj|solutionrelative:northwind.business\\dependencyresolvers\\ninject\\instancefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A0B000-4F6F-465F-8843-D92B59532743}|Nrthwind.WebFormsUI\\Northwind.WebFormsUI.csproj|C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\nrthwind.webformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A0B000-4F6F-465F-8843-D92B59532743}|Nrthwind.WebFormsUI\\Northwind.WebFormsUI.csproj|solutionrelative:nrthwind.webformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA17A2-5D44-4257-8359-77B99F23F22A}|Northwind.Business\\Northwind.Business.csproj|C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\northwind.business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BA17A2-5D44-4257-8359-77B99F23F22A}|Northwind.Business\\Northwind.Business.csproj|solutionrelative:northwind.business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA17A2-5D44-4257-8359-77B99F23F22A}|Northwind.Business\\Northwind.Business.csproj|C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\northwind.business\\utilities\\validationtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BA17A2-5D44-4257-8359-77B99F23F22A}|Northwind.Business\\Northwind.Business.csproj|solutionrelative:northwind.business\\utilities\\validationtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BA17A2-5D44-4257-8359-77B99F23F22A}|Northwind.Business\\Northwind.Business.csproj|C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\northwind.business\\validation\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BA17A2-5D44-4257-8359-77B99F23F22A}|Northwind.Business\\Northwind.Business.csproj|solutionrelative:northwind.business\\validation\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEEBBB8-AFC9-45B5-99D0-4052739FAA23}|Northwind.Entities\\Northwind.Entities.csproj|C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\northwind.entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEEBBB8-AFC9-45B5-99D0-4052739FAA23}|Northwind.Entities\\Northwind.Entities.csproj|solutionrelative:northwind.entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Nrthwind.WebFormsUI\\App.config",
+              "RelativeDocumentMoniker": "Nrthwind.WebFormsUI\\App.config",
+              "ToolTip": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Nrthwind.WebFormsUI\\App.config",
+              "RelativeToolTip": "Nrthwind.WebFormsUI\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-23T14:22:35.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstanceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Northwind.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs",
+              "RelativeDocumentMoniker": "Northwind.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs",
+              "ToolTip": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Northwind.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs",
+              "RelativeToolTip": "Northwind.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:08:32.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Northwind.Business\\DependencyResolvers\\Ninject\\BusinessModule.cs",
+              "RelativeDocumentMoniker": "Northwind.Business\\DependencyResolvers\\Ninject\\BusinessModule.cs",
+              "ToolTip": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Northwind.Business\\DependencyResolvers\\Ninject\\BusinessModule.cs",
+              "RelativeToolTip": "Northwind.Business\\DependencyResolvers\\Ninject\\BusinessModule.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:02:41.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Nrthwind.WebFormsUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Nrthwind.WebFormsUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Nrthwind.WebFormsUI\\Form1.cs",
+              "RelativeToolTip": "Nrthwind.WebFormsUI\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwBwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:11:07.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Northwind.Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Northwind.Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Northwind.Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Northwind.Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:24:30.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationTools.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Northwind.Business\\Utilities\\ValidationTools.cs",
+              "RelativeDocumentMoniker": "Northwind.Business\\Utilities\\ValidationTools.cs",
+              "ToolTip": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Northwind.Business\\Utilities\\ValidationTools.cs",
+              "RelativeToolTip": "Northwind.Business\\Utilities\\ValidationTools.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:20:01.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Northwind.Entities\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "Northwind.Entities\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Northwind.Entities\\Concrete\\Product.cs",
+              "RelativeToolTip": "Northwind.Entities\\Concrete\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:58:09.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Northwind.Business\\Validation\\FluentValidation\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "Northwind.Business\\Validation\\FluentValidation\\ProductValidator.cs",
+              "ToolTip": "C:\\Users\\erena\\Documents\\SOFTWARE\\C# course\\C_Sharp_Beginner_Level\\3advanced_projects\\nLayerProject\\Northwind.Business\\Validation\\FluentValidation\\ProductValidator.cs",
+              "RelativeToolTip": "Northwind.Business\\Validation\\FluentValidation\\ProductValidator.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:55:56.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
